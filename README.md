@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
