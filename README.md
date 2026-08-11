@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0102-binary-tree-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
