@@ -10,9 +10,12 @@ class Solution {
             total ^= i;
 
         }
-        if (!check) {
-            return 0;
-        }
-        return total == 0 ? len - 1 : len;
+        if (total != 0)
+            return len;
+
+        if (check)
+            return len - 1;
+
+        return 0;
     }
 }
