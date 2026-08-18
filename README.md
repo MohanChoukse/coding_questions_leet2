@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
