@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
+| [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
