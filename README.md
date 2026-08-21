@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0152-maximum-product-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0136-single-number) |
