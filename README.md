@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0128-longest-consecutive-sequence) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
