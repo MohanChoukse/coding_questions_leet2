@@ -228,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0511-game-play-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
