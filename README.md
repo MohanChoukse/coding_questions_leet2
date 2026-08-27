@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Matrix
