@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0059-spiral-matrix-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
