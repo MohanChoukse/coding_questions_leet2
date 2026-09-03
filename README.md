@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
