@@ -1,51 +1,44 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-
+        int n = nums.length;
         int pivot = -1;
 
-        for(int i = nums.length - 2; i >= 0; i--){
-            if(nums[i] < nums[i + 1]){
+        // Step 1: Find the pivot
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
                 pivot = i;
                 break;
             }
         }
 
-        if(pivot == -1){
-            int l = 0;
-            int r = nums.length - 1;
-
-            while(l < r){
-                int temp = nums[l];
-                nums[l] = nums[r];
-                nums[r] = temp;
-                l++;
-                r--;
-            }
+        if (pivot == -1) {
+            reverse(nums, 0, n - 1);
             return;
         }
 
-        int replacer = -1;
-
-        for(int i = nums.length - 1; i > pivot; i--){
-            if(nums[i] > nums[pivot]){
-                replacer = i;
+        // Step 2: Find rightmost element greater than pivot
+        for (int i = n - 1; i > pivot; i--) {
+            if (nums[i] > nums[pivot]) {
+                swap(nums, i, pivot);
                 break;
             }
         }
 
-        int temp = nums[pivot];
-        nums[pivot] = nums[replacer];
-        nums[replacer] = temp;
+        // Step 3: Reverse the rest
+        reverse(nums, pivot + 1, n - 1);
+    }
 
-        int l = pivot + 1;
-        int r = nums.length - 1;
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 
-        while(l < r){
-            temp = nums[l];
-            nums[l] = nums[r];
-            nums[r] = temp;
-            l++;
-            r--;
+    private void reverse(int[] nums, int start, int end) {
+        while (start < end) {
+            swap(nums, start, end);
+            start++;
+            end--;
         }
     }
 }
