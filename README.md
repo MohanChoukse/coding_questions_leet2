@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
