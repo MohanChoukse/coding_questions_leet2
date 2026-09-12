@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -272,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
