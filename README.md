@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0509-fibonacci-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0485-max-consecutive-ones) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
@@ -292,4 +295,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
