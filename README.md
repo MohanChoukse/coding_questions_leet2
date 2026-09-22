@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
+| [1089-duplicate-zeros](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
