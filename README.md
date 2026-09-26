@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0118-pascals-triangle) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
