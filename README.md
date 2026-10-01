@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0509-fibonacci-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
