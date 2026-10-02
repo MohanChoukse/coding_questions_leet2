@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1089-duplicate-zeros) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
