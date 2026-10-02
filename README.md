@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1004-max-consecutive-ones-iii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
