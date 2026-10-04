@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0680-valid-palindrome-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -328,10 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MohanChoukse/coding_questions_leet2/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Memoization
 |  |
 | ------- |
